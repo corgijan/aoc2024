@@ -58,5 +58,3 @@ for line in content_list:
         elif brute_safety_check(levels):
             safe = safe + 1
 print(safe)
-
-
